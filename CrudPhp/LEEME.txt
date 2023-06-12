@@ -1,0 +1,6 @@
+Para montar el proyecto sólo subir todos los archivos a la raíz del proyecto y cargar el archivo script_db_votaciones.sql usando HeidiSQL.
+
+Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/7.4.32
+Versión del cliente de base de datos: libmysql - mysqlnd 7.4.32
+extensión PHP: mysqli Documentación curl Documentación mbstring Documentación
+Versión de PHP: 7.4.32
